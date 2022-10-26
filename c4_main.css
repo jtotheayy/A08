@@ -25,10 +25,10 @@ a:hover{
 	font-style:italic;
 }
 footer p{
-	margin:auto;
+	text-align:center;
 }
 .shadow {
-	text-shadow: var(--global-color-1);
+	text-shadow: 2px var(--global-color-1);
 }
 /* the styles for the main content */
 main {
