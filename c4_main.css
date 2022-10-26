@@ -27,8 +27,8 @@ a:hover{
 footer p{
 	text-align:center;
 }
-.shadow {
-	text-shadow: 2px var(--global-color-1);
+em.shadow {
+	text-shadow: 2px 2px var(--global-color-1);
 }
 /* the styles for the main content */
 main {
